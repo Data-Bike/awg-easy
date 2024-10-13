@@ -1,4 +1,5 @@
-I is a fork of https://github.com/wg-easy/wg-easy
+It is a fork of https://github.com/wg-easy/wg-easy and https://github.com/w0rng/amnezia-wg-easy
+
 # WireGuard Easy
 
 [![Build & Publish Docker Image to Docker Hub](https://github.com/wg-easy/wg-easy/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/wg-easy/wg-easy/actions/workflows/deploy.yml)
